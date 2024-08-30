@@ -1,6 +1,5 @@
 # Image Blending using Laplacian Pyramids - README
 
-## THE GOOGLE DRIVE LINK FOR THE IMAGES:https://drive.google.com/drive/folders/1xuvOp3eNXAA_2Yp_iPIpVazswhieCF0I?usp=sharing
 
 ## Overview:
 
